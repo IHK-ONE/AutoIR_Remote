@@ -14,7 +14,7 @@ AutoIR/
   │
   ├── data/
   │   ├── info_bin.json	    # /usr/bin 对比信息
-  │   ├── info_proc.json		# ps 对比信息
+  │   ├── info_proc.json    # ps 对比信息
   │   └── config.json       # 雷池 WAF 与 AI 配置
   │
   ├── extensions/
