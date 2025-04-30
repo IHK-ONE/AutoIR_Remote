@@ -1,0 +1,37 @@
+{
+  "SafeLineWAF": {
+    "Server": "http://172.18.244.250:5001/?input=",
+    "_Server": "请务必将 Server 改成 get 接收参数格式"
+  },
+
+  "BaseCommand": "strings",
+
+  "CheckKeywords": [
+    "flag{",
+    "flag",
+    "666c6167",
+    "f1ag",
+    "fl4g",
+    "Zmxh",
+    "&#102",
+    "MZWGC",
+    "102 108 97 103",
+    "1100110",
+    "ctf",
+    "504b0304",
+    "key",
+    "464C4147",
+    "pass",
+    "select",
+    "/bin/bash",
+    " bash ",
+    "/bin/sh",
+    " .sh ",
+    " sh "
+  ],
+
+  "OpenAI": {
+    "API-Base": "*",
+    "API-Key": "*"
+  }
+}

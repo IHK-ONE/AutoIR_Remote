@@ -1,0 +1,8 @@
+{
+  "systemd": "init",
+  "udevadm": "systemd-udevd",
+  "bash": "-bash",
+  "dash": "sh",
+  "busybox": "sh",
+  "node": "next-server"
+}

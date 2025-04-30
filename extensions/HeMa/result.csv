@@ -1,0 +1,9 @@
+﻿序号,类型,路径
+1,PHP一句话后门-建议清理,downloads\2025_04_22_22_14_39\usr\themes\default\404.php
+2,PHP一句话后门-建议清理,downloads\2025_04_22_22_14_39\www.tar
+3,疑似PHP后门-建议人工确认,downloads\2025_04_22_22_14_39\admin\common-js.php
+4,疑似PHP后门-建议人工确认,downloads\2025_04_22_22_14_39\adminer.php
+5,疑似ASP后门-建议人工确认,downloads\2025_04_22_22_14_39\output.pcap
+6,疑似PHP后门-建议人工确认,downloads\2025_04_22_22_14_39\var\Typecho\Db\Adapter\Pdo\Mysql.php
+7,疑似PHP后门-建议人工确认,downloads\2025_04_22_22_14_39\var\Typecho\Db\Adapter\Pdo\Pgsql.php
+8,疑似PHP后门-建议人工确认,downloads\2025_04_22_22_14_39\var\Typecho\Http\Client.php

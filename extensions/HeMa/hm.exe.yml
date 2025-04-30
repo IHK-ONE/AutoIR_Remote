@@ -1,0 +1,18 @@
+exclude:
+- .css
+- .js
+- .woff
+- .woff2
+- .ttf
+- .eot
+- .doc
+- .docx
+- .ppt
+- .pptx
+- .csv
+- .xls
+- .xlsx
+- .rpm
+- .xml
+- .map
+include: []
