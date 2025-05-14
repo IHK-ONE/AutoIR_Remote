@@ -1,4 +1,6 @@
 # CTF自动化应急响应工具
+AI 深度索引文档说明 https://deepwiki.com/IHK-ONE/AutoIR_Remote
+
 ```plain
 AutoIR/
   ├── __init__.py  
